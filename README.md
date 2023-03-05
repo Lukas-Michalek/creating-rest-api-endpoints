@@ -11,7 +11,7 @@ Project focused on creating REST API endpoints to connect the React front-end to
 - REACT
 
 ## Libraries Used
-
+- Nodemon
 ## Author
 Lukas Michalek
 
